@@ -1,0 +1,17 @@
+h1 {
+	color: blue;
+	margin-left: 20px;
+}
+
+.samclass{
+	color: red;
+	text-align: center;
+
+	font-size: 20px;
+}
+
+#samclass2{
+	color: orange;
+	text-align: center;
+	font-size: 20px;
+}
